@@ -1,8 +1,6 @@
 # Prashant_Verma
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
-<img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
-
 _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I](www.linkedin.com/in/prashant-verma-0a1a36169).You can see my professional profile below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
