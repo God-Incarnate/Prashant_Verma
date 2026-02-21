@@ -101,7 +101,7 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 </tr>
  <tr>
     <td align=“center” height=“75” width=“190”>
-        <img height=“75” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Checkmarx_logo.svg"/>
+        <img height=“75” width=“150”  src="https://images.seeklogo.com/logo-png/33/1/checkmarx-logo-png_seeklogo-335328.png"/>
     </td>
     <td align=“center” height=“75” width=“190”>
         <img height=“75” width=“150”  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg"/>
