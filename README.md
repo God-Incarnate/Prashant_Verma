@@ -53,7 +53,7 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Xml_logo.svg" />
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xml.svg" />
     </td>
      <td align=‘center’ height=“75” width=“190”>
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
@@ -70,7 +70,7 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/IntelliJ_IDEA_Icon.svg"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"/>
@@ -84,13 +84,13 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 </tr>
  <tr>
     <td align=‘center’ height=“75” width=“190”>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Confluence-blue.svg"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/confluence.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Bitbucket-blue.svg"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bitbucket.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Apache_JMeter_logo.svg"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachejmeter.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SonarQube-logo.svg"/>
