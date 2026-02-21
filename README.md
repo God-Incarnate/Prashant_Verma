@@ -33,19 +33,19 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 <table width="100">
 <tr>
     <td align='center' height="75" width="190">
-        <img height=“75” width=“150”  src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
+        <img height=“50” width=“150”  src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
     </td>
     <td align='center' height="75" width="190">
-        <img height=“75” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"/>
+        <img height=“50” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"/>
     </td>
     <td align='center' height="75" width="190">
-        <img height=“75” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"/>
+        <img height=“50” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"/>
     </td>
     <td align='center' height="75" width="190">
-        <img height=“75” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
+        <img height=“50” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
     </td>
     <td align=‘center’ height=“75” width=“190”>
-        <img height=“75” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
+        <img height=“50” width=“150”  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
     </td>
 </tr>
 <tr>
