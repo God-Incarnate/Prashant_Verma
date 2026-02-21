@@ -30,12 +30,12 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 
 <h2 align="center"><i>Languages and Tools</i></h2>
 
-<table style="width:100%; background:#f5f5f5;">
+<table style="width:100%">
 <tr>
     <td align="center" height="100">
         <img height="70" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
     </td>
-    <td style="text-align:center; height:100px; background:#f5f5f5;">
+    <td align="center" height="100">
         <img style="background:black" height="70" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"/>
     </td>
     <td align="center" height="100">
