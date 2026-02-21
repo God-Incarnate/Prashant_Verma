@@ -30,7 +30,7 @@ _Hello there this is **Prashant Verma**. Working as [Digital Engineer - I] (www.
 
 <h2 align="center"><i>Languages and Tools</i></h2>
 
-<table style="width:100%; table-layout:fixed; border-collapse:collapse; background:#f5f5f5;">
+<table style="width:100%; background:#f5f5f5;">
 <tr>
     <td align="center" height="100">
         <img height="70" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
